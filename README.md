@@ -1,70 +1,34 @@
-# Getting Started with Create React App
+🚀 SpaceX Clone Website
+A simple clone of the SpaceX website built using React. This project was created as a pet project to practice custom component development, including building carousels from scratch without any libraries. 🛠️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+✨ Features
+React: Used for building the UI 🌐
+Custom Carousels: Created manually without relying on any carousel libraries 🔄
+Responsive Design: Optimized for both desktop and mobile screens 📱💻
 
-## Available Scripts
+📜 License
+This project is for personal use and practice. Feel free to fork and modify as needed! ✌️
 
-In the project directory, you can run:
+Now it’s got a bit of flair! Let me know if you'd like any more adjustments.
 
-### `npm start`
+# 📌 Project Name
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ✨ Update 1.0
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 🚀 New Features
+- **🌟 Favorites Page**: Added a new **Favorites** page to store your favorite items.
+- **🧭 Navigation Update**: Improved navigation for easier browsing.
+- **💖 Add and Remove Favorites**:
+  - To add an item to favorites, click on the heart icon ❤️ on the card.
+  - To remove an item from favorites, click the heart icon 💔 again.
 
-### `npm test`
+### 🛠️ How to Use
+1. Go to the **Favorites** page to view your saved items.
+2. **Add** an item to favorites by clicking ❤️ on its card.
+3. **Remove** an item from favorites by clicking 💔 on its card again.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### ⚙️ Installation
+1. Clone the repository.
+2. Install dependencies:
+   ```bash
+   npm install

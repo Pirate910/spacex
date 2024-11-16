@@ -1,0 +1,56 @@
+.header{
+    position: absolute;
+    z-index: 99;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: rgba(30, 30, 30, 0.48);
+}
+
+.header__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 15px;
+}
+
+.header-logo{
+    mix-blend-mode: difference;
+}
+
+.header-menu-ul{
+    display: flex;
+    gap: 0 32px;
+}
+
+.header-menu-el-link{
+    font-family: Lato;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+}
+
+.header-btn-block{
+    display: flex;
+    gap: 0 12px;
+    align-items: center;
+}
+
+.header-btn-favorites{
+    background-color: #fff;
+    padding: 17px;
+}
+
+.header-btn-register-link{
+    color: #000;
+    font-family: Syne;
+    background: #D3EAFF;    
+    font-size: 24px;
+    font-weight: 600;
+    padding: 12px 33px;
+    text-transform: uppercase;
+}
+
+.favorite-btn-active{
+	background-color: #DD377D;
+}
